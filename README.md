@@ -1,3 +1,4 @@
+学习标签里的全局属性
 ## 学习标签里的全局属性
 * <h3>class<h6> 例如class="aa" .aa或者class="aa"来定位获取元素
 * <h3>contenteditable<h6> 可以让任何的元素标签里进行编辑
